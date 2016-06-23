@@ -15,3 +15,6 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+*.zip filter=lfs diff=lfs merge=lfs -text
+Wattage.zip filter=lfs diff=lfs merge=lfs -text
+C:\Users\family1\Documents\GitHub\WattagePackHosting\Wattage.zip filter=lfs diff=lfs merge=lfs -text
